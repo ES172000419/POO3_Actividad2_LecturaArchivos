@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project name="POO3_Actividad2_LecturaArchivos" default="default" basedir=".">
-    <description>Proyecto NetBeans para la Actividad 2 de POO 3.</description>
-    <import file="nbproject/build-impl.xml"/>
-</project>
